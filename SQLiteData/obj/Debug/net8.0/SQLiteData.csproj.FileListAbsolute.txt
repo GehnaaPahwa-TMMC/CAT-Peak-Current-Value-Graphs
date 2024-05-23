@@ -1,0 +1,14 @@
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\bin\Debug\net8.0\SQLiteData.deps.json
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\bin\Debug\net8.0\SQLiteData.runtimeconfig.json
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\bin\Debug\net8.0\SQLiteData.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\bin\Debug\net8.0\SQLiteData.pdb
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.csproj.AssemblyReference.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.AssemblyInfoInputs.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.AssemblyInfo.cs
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.csproj.CoreCompileInputs.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\refint\SQLiteData.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.pdb
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\SQLiteData.genruntimeconfig.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\SQLiteData\obj\Debug\net8.0\ref\SQLiteData.dll

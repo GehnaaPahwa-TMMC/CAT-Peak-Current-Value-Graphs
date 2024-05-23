@@ -1,0 +1,17 @@
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\bin\Debug\net8.0\Graph.deps.json
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\bin\Debug\net8.0\Graph.runtimeconfig.json
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\bin\Debug\net8.0\Graph.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\bin\Debug\net8.0\Graph.pdb
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\bin\Debug\net8.0\SQLiteData.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\bin\Debug\net8.0\SQLiteData.pdb
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.csproj.AssemblyReference.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.AssemblyInfoInputs.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.AssemblyInfo.cs
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.csproj.Up2Date
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\refint\Graph.dll
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.pdb
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\Graph.genruntimeconfig.cache
+C:\Users\pahwag\source\repos\CAT-Peak-Current-Value-Graphs\Graph\obj\Debug\net8.0\ref\Graph.dll
